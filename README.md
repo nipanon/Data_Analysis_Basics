@@ -1,2 +1,2 @@
-# PY_pandas_timeseries
-Python Learning Basics with Pandas : Timeseries (BTC)
+# Data Visualization with Python
+Python Learning Basics with Pandas & Numpy
