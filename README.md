@@ -1,2 +1,2 @@
 # PY_pandas_timeseries
-Python (pandas) Basics : Timeseries (BTC)
+Python Learning Basics with Pandas : Timeseries (BTC)
